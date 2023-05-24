@@ -26,19 +26,18 @@
               <h3 class="fs-6 ps-3">Proyectos personales destacados:</h3>
               <ul class="list-unstyled ps-3">
                 <li><a class="text-primary fw-bold text-decoration-none" href="#">Design generator</a> </li>
-                <li><a class="text-primary fw-bold text-decoration-none" href="#">Pepe profile page</a> </li>
-                <li><a class="text-primary fw-bold text-decoration-none" href="#">Memes con IA</a> </li>
+                <li><a class="text-primary fw-bold text-decoration-none" href="#">Website development expert</a> </li>
+                <li><a class="text-primary fw-bold text-decoration-none" href="#">Public Relations</a> </li>
               </ul>
             </div>
           </div>
          
           <div class="p-3">
             <h2 class="d-inline-block fs-4 ps-1"><i class="fa-solid fa-suitcase"></i> Experiencia</h2>
-            
-            <div class="ps-3">
+              <div class="ps-3">
               <h3 class="ps-3 fs-5 mb-0">Full-stack developer in Idecnet, Madrid</h3>
               <p class="ps-3 fw-light text-muted mb-0" style="font-size: 0.8rem;">September 2005 - Presente</p>
-              <p class="ps-3">    </p>
+              <p class="ps-3">Personal Assistant in programation to the BBVA CIO</p>
 
               <h4 class="ps-3 fs-6 mb-3">Responsabilidades</h3>
               <ul class="ps-5">
@@ -72,13 +71,13 @@
             <div class="ps-3">
               <h3 class="ps-3 fs-5 mb-0">Experiencia #2, Madrid</h3>
               <p class="ps-3 fw-light text-muted mb-0" style="font-size: 0.8rem;">Enero 2023 - Presente</p>
-              <p class="ps-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio sed enim perferendis? Veritatis laboriosam numquam velit totam saepe adipisci quaerat?</p>
+              <p class="ps-3">Learning more programation languages</p>
 
               <h4 class="ps-3 fs-6 mb-3">Responsabilidades</h3>
               <ul class="ps-5">
-                <li>Hacer memes de ranas</li>
-                <li>Actualizar VS Code</li>
-                <li>No borrar la base de destacados</li>
+                <li>Intentar aprovechar lo que se me ofrece</li>
+                <li>Prestar la mayor atención posible</li>
+                <li>Terminar el curso preparada para programar todo lo que me proponga.</li>
               </ul>
 
               <h4 class="ps-3 fs-6 mb-3">Tech stack</h3>
@@ -101,40 +100,35 @@
                   </ul>
             </div>
           </div>
-          <!-- Sección Educación -->
+        
           <div class="p-3">
             <h2 class="d-inline-block fs-4 ps-1"><i class="fa-solid fa-graduation-cap"></i> Educación</h2>
-
-            <!-- Educación #1 -->
-            <h3 class="ps-3 fs-6 mb-0">Certificado en diseño de memes, Universidad de La Calle de Internet 404, Madrid</h3>
+            <h3 class="ps-3 fs-6 mb-0">Certificado en diseño, Universidad Internet 404, Madrid</h3>
             <p class="ps-3 fw-light text-muted mb-0" style="font-size: 0.8rem;">Enero 2023 - Presente</p>
 
-            <!-- Espacio en blanco "ninja" -->
-            <div>&nbsp;</div>
+           <div>&nbsp;</div>
 
-            <!-- Educación #2 -->
-            <h3 class="ps-3 fs-6 mb-0">Certificado en Javascript de la vida real, Mi habitación, Madrid</h3>
+            <h3 class="ps-3 fs-6 mb-0">Certificado en Javascript, CDM, Madrid</h3>
             <p class="ps-3 fw-light text-muted mb-0" style="font-size: 0.8rem;">Enero 2023 - Presente</p>
           </div>
         </div>
-        <!-- Sidebar derecho -->
+       
         <div class="col-3 py-4">
           <h2 class="fs-6 mb-1 mt-2">Detalles</h2>
           <p class="my-0"><i class="fa-solid fa-location-pin"></i> &nbsp;Madrid</p>
           <p class="my-0"><i class="fa-solid fa-globe"></i> España</p>
           <a class="d-block text-decoration-none text-dark" href="tel:+34123456789"><i class="fa-solid fa-phone"></i> +34 123 456 789</a>
-          <a class="d-block text-decoration-none text-dark" href="mailto:pepe@larana.frog"><i class="fa-solid fa-envelope"></i> pepe@larana.frog</a>
+          <a class="d-block text-decoration-none text-dark" href="mailto:glorcan14@gmail.com"><i class="fa-solid fa-envelope"></i>gloria@idecnet.com</a>
 
           <h2 class="fs-6 mb-1 mt-3">Redes Sociales</h2>
-          <a class="d-block text-decoration-none text-dark" href="https://github.com/pepe-croak" target="_blank"><i class="fa-brands fa-github"></i> @pepe-croak</a>
-          <a class="d-block text-decoration-none text-dark" href="https://www.linkedin.com/in/pepe-croak.inc" target="_blank"><i class="fa-brands fa-linkedin"></i> @pepe-croak.inc</a>
+          <a class="d-block text-decoration-none text-dark" href="https://github.com/glorstar.github.io" target="_blank"><i class="fa-brands fa-github"></i></a>
+          <a class="d-block text-decoration-none text-dark" href="https://www.linkedin.com/in/glorialozano" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
 
           <h2 class="fs-6 mb-1 mt-3">Idiomas</h2>
           <p class="mb-1">Español</p>
           <div class="progress" style="height: 0.65rem;">
             <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
-          <!-- Para cambiar el porcentaje en progress el width % y el ariavluenow deben ser iguales en número -->
           <p class="mb-1">Inglés</p>
           <div class="progress" style="height: 0.65rem;">
             <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
